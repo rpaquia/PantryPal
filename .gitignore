@@ -1,0 +1,11 @@
+# Ignore Gradle project-specific cache directory
+.gradle/*
+.gradle/buildOutputCleanup
+
+# Ignore Gradle build output directory
+build
+
+.vscode
+
+recording.wav
+user_uuid.txt
