@@ -1,7 +1,3 @@
-
--# PantryPal Team 32
-
-
 Clone the repo
 
 Create .vscode folder in root directory
